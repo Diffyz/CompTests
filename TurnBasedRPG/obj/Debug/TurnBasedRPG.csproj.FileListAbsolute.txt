@@ -1,0 +1,6 @@
+C:\Users\hm\Desktop\objects\C#\TurnBasedRPG\TurnBasedRPG\bin\Debug\TurnBasedRPG.exe.config
+C:\Users\hm\Desktop\objects\C#\TurnBasedRPG\TurnBasedRPG\bin\Debug\TurnBasedRPG.exe
+C:\Users\hm\Desktop\objects\C#\TurnBasedRPG\TurnBasedRPG\bin\Debug\TurnBasedRPG.pdb
+C:\Users\hm\Desktop\objects\C#\TurnBasedRPG\TurnBasedRPG\obj\Debug\TurnBasedRPG.exe
+C:\Users\hm\Desktop\objects\C#\TurnBasedRPG\TurnBasedRPG\obj\Debug\TurnBasedRPG.pdb
+C:\Users\hm\Desktop\objects\C#\TurnBasedRPG\TurnBasedRPG\obj\Debug\TurnBasedRPG.csprojResolveAssemblyReference.cache
