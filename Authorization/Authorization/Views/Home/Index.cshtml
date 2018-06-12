@@ -1,0 +1,47 @@
+﻿@model DateBaseProject.User
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/Content/HomeStyle.css" />
+    <script src="~/Scripts/MyScripts/CheckUserData.js"></script>
+</head>
+<body style="background:url('../../Content/Space.jpg')">
+    <script src="~/Scripts/MyScripts/CheckUserData.js"></script>
+    <form method="post" action="~/Home/Index/">
+        <div class="passport-Domik" style="align-content:center;margin:auto;margin-top:7%;outline:none">
+            <div>
+                <label id="Iemail" style="color:red;display:none">Inccorectly email</label>
+                <label id="Ipassword" style="color:red;display:none">Inccorectly password</label>
+                <p>Login</p>
+                @Html.EditorFor(x => x.login, new { id = "login" })
+                <p>Password</p>
+                @Html.PasswordFor(x => x.password, new { id = "password" })
+                <br />
+                @if (ViewBag.UserRegistration != null && ViewBag.UserRegistration == true)
+                {
+                    <input style="margin:2% auto" type="button" onclick="CreateNewUser()" class="btn btn-success" value="Registration" />
+                    <h6> <a href="~/Home/Index/" style="text-decoration: none; color: #ccc">Go to Entry</a></h6>
+                }
+                else
+                {
+                    if (ViewBag.UserNotHave != null && ViewBag.UserNotHave == true)
+                    {
+                        <div style="margin:5% auto;margin-left:40%">
+                            <p style="color:red">User not found</p>
+                        </div>
+                    }
+
+                    <span>
+                        <a href="~/Home/Registration/">Registration</a>
+
+                        <input style="margin:2% auto" type="submit" class="btn btn-success" value="Entry" />
+
+                    </span>
+                }
+
+            </div>
+        </div>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+D:\GitRep\CompTests\Authorization\DateBaseProject\bin\Debug\DateBaseProject.dll
+D:\GitRep\CompTests\Authorization\DateBaseProject\bin\Debug\DateBaseProject.pdb
+D:\GitRep\CompTests\Authorization\DateBaseProject\obj\Debug\DateBaseProject.csproj.CoreCompileInputs.cache
+D:\GitRep\CompTests\Authorization\DateBaseProject\obj\Debug\DateBaseProject.dll
+D:\GitRep\CompTests\Authorization\DateBaseProject\obj\Debug\DateBaseProject.pdb
+D:\GitRep\CompTests\Authorization\DateBaseProject\bin\Debug\DateBaseProject.dll.config
+D:\GitRep\CompTests\Authorization\DateBaseProject\bin\Debug\EntityFramework.dll
+D:\GitRep\CompTests\Authorization\DateBaseProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitRep\CompTests\Authorization\DateBaseProject\bin\Debug\EntityFramework.xml
+D:\GitRep\CompTests\Authorization\DateBaseProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitRep\CompTests\Authorization\DateBaseProject\obj\Debug\DateBaseProject.csproj.CopyComplete
+D:\GitRep\CompTests\Authorization\DateBaseProject\obj\Debug\DateBaseProject.csprojResolveAssemblyReference.cache
